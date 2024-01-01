@@ -1,4 +1,4 @@
-# pytest-caplog
+# pytest-configure
 This repo contains the sample code for the article on "How pytest_configure Transforms Your Python Testing Strategy: A Comprehensive Tutorial"
 
 This guide covers pytest configure and how it is used to customize Pytest's behavior to your needs.
